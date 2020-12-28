@@ -24,8 +24,13 @@ I was looking for description of parameters for latest LIVE version of Star Citi
 %CONSOLE% support Copy [CTRL+C] and Paste [CRTL+V] keyboard shortcut also like it's mention in Introduction all logs are stored in %LOG% file. Parameters can be modified through USER.cfg file that's have to be created in %USER% dir.
 
    - `TAB` is autocomplete button which mean that you can automatically fills in partially typed commands
+
    ![TAB autocompletion](https://github.com/emilwojcik93/sc-cmd/blob/main/TAB_autocompletion.gif)
+
    - to list all used parameters with set values just type in %CONSOLE% `\` and press `TAB` button
+
    ![List parameters](https://github.com/emilwojcik93/sc-cmd/blob/main/list_parameters.gif)
+
    - to get description of parameter in %CONSOLE% write at the end of target command add help sign ` ?` eg. `quit ?`
+
    ![Help sign](https://github.com/emilwojcik93/sc-cmd/blob/main/help_example.gif)
