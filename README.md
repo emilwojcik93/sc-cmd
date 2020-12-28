@@ -1,5 +1,8 @@
 # sc-cmd
-Collection of parameters available for latest LIVE (ver. 3.12.0) of Star Citizen
+Collection of parameters available for latest LIVE (ver. 3.12.0) of Star Citizen.
+
+# [Wiki](https://github.com/emilwojcik93/sc-cmd/wiki)
+Full list of parameters and their description
 
 ## Shortcuts
 %CONSOLE% = in game console open with `~` key
