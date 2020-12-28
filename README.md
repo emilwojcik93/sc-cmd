@@ -29,7 +29,7 @@ Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Param
 
    ![TAB autocompletion](https://github.com/emilwojcik93/sc-cmd/blob/main/TAB_autocompletion.gif)
 
-   - to list all used parameters with set values just type in %CONSOLE% `\` and press `TAB` button
+   - to list all used parameters with set values just type in %CONSOLE% `\` then press `TAB` button
 
    ![List parameters](https://github.com/emilwojcik93/sc-cmd/blob/main/list_parameters.gif)
 
