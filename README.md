@@ -1,6 +1,8 @@
 # sc-cmd
 Collection of parameters available for latest LIVE (ver. 3.12.0) of Star Citizen.
+
 [Example USER.cfg](https://github.com/emilwojcik93/sc-cmd/blob/main/LOWEST_USER.cfg)
+
 [Raw parameters list and description](https://github.com/emilwojcik93/sc-cmd/blob/main/parameters.txt)
 
 # [Wiki](https://github.com/emilwojcik93/sc-cmd/wiki)
