@@ -3,6 +3,7 @@ Collection of parameters available for latest LIVE (ver. 3.12.0) of Star Citizen
 
 ## Shortcuts
 %ROOT% = "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE"
+
 %USER% = "C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER"
 
 ## Introduction
