@@ -23,6 +23,8 @@ I was looking for description of parameters for latest LIVE version of Star Citi
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
 
 ## Usage
+Parameter "Con_Restricted = 0" is require to unlock the console to accept in game USER.cfg file.
+
 %CONSOLE% support Copy [CTRL+C] and Paste [CRTL+V] keyboard shortcut also like it's mention in Introduction all logs are stored in %LOG% file. Parameters can be modified through %USER% file.
 
    - `TAB` is autocomplete button which mean that you can automatically fills in partially typed commands
