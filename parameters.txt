@@ -1,3 +1,6 @@
+Con_Restricted = 0
+;This parameter is require to unlock %USER% file in game.
+
 cig_profile_auto_logging_enabled = 0
 ;Enables auto captures of profiling information to disk whenever frame rate drops below a certain threshold. (1: write a RAD capture, 2: write a CigProfile capture)
 
