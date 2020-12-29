@@ -1,5 +1,5 @@
 cig_profile_auto_logging_enabled = 0
-;Enables auto captures of profiling information to disk whenever frame rate drops below a certain threshold. (1: write a RAD capture, 2: write a CigProfile ;capture)
+;Enables auto captures of profiling information to disk whenever frame rate drops below a certain threshold. (1: write a RAD capture, 2: write a CigProfile capture)
 
 cig_profile_auto_logging_enabled_during_level_load = 0
 ;If auto captures during level (un)loading are disabled specifies the number of frames to delay re-activation of auto captures after level (un)load.
