@@ -1,228 +1,228 @@
 cig_profile_auto_logging_enabled = 0
-Enables auto captures of profiling information to disk whenever frame rate drops below a certain threshold. (1: write a RAD capture, 2: write a CigProfile capture)
+;Enables auto captures of profiling information to disk whenever frame rate drops below a certain threshold. (1: write a RAD capture, 2: write a CigProfile ;capture)
 
 cig_profile_auto_logging_enabled_during_level_load = 0
-If auto captures during level (un)loading are disabled specifies the number of frames to delay re-activation of auto captures after level (un)load.
+;If auto captures during level (un)loading are disabled specifies the number of frames to delay re-activation of auto captures after level (un)load.
 
 cig_profile_auto_logging_enabled_frame_delay_after_level_load = 100
-If auto captures during level (un)loading are disabled specifies the number of frames to delay re-activation of auto captures after level (un)load.
+;If auto captures during level (un)loading are disabled specifies the number of frames to delay re-activation of auto captures after level (un)load.
 
 cig_profile_auto_logging_max_captures = 5
-Maximum number of auto captures to take per session (to avoid filling up hard drive space).
+;Maximum number of auto captures to take per session (to avoid filling up hard drive space).
 
 cig_profile_auto_logging_slow_frame_threshold = 10
-Frame rate threshold below which an auto capture is triggered.
+;Frame rate threshold below which an auto capture is triggered.
 
 cig_profile_auto_logging_slow_frame_tolerance = 0.25
-Allowed tolerance for the number of frames within slow frame window to exceed the slow frame threshold and still trigger an auto capture. (Range [0..1])
+;Allowed tolerance for the number of frames within slow frame window to exceed the slow frame threshold and still trigger an auto capture. (Range [0..1])
 
 cig_profile_auto_logging_slow_frame_window = 2
-Number of seconds frame rate is observed before triggering an auto capture.
+;Number of seconds frame rate is observed before triggering an auto capture.
 
 e_runtimeCubemapEnableDebugLogging = 0
-Capture various debug information about runtime cubemap commands, and output if specific assert triggers.
+;Capture various debug information about runtime cubemap commands, and output if specific assert triggers.
 
 e_ZoneSystemVerifyBounds = 0
-Set to 1 to enable debug code to catch broken logic in Parition BBox Updates
+;Set to 1 to enable debug code to catch broken logic in Parition BBox Updates
 
 g_playerGroupManager.on_foot_partymarker_cull_distance = 1000
-Max display distance for party marker when on foot.
+;Max display distance for party marker when on foot.
 
 g_playerGroupManager.on_vehicle_partymarker_cull_distance = 50000
-Max display distance for party marker when piloting a vehicle.
+;Max display distance for party marker when piloting a vehicle.
 
 i_DumpDeviceInformation
-Print out information about currently connected input devices
+;Print out information about currently connected input devices
 
 mission_debug_reputation = 0
-Client debug display for the local player's virtue and reliability values. Set to 1 to display the information
+;Client debug display for the local player's virtue and reliability values. Set to 1 to display the information
 
 pl_showStatus
-Log current player status
+;Log current player status
 
 pl_staging.debug = 0
-Enable debug output to log.
+;Enable debug output to log.
 
 pp_RebindKeys
-Rebinds controls using specified XML file.
-If no file is specified it will try to reset the controls bindings to the default.
-Input: pp_RebindKeys <file>
-Alternatively, use it to export any active remappings.
-Input: pp_RebindKeys export <type> <index>
+;Rebinds controls using specified XML file.
+;If no file is specified it will try to reset the controls bindings to the default.
+;Input: pp_RebindKeys <file>
+;Alternatively, use it to export any active remappings.
+;Input: pp_RebindKeys export <type> <index>
 
 pp_ResortDevices
-Swap all actions assigned to one device with another.
-Input: pp_ResortDevices <type> <id1> <id2>
-Note: Currently the only supported type is joystick.
+;Swap all actions assigned to one device with another.
+;Input: pp_ResortDevices <type> <id1> <id2>
+;Note: Currently the only supported type is joystick.
 
 quit
-Quits the game
+;Quits the game
 
 q_ShaderDecal = 1
-Defines the shader quality of Decal
-Usage: q_ShaderDecal 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of Decal
+;Usage: q_ShaderDecal 0=low/1=med/2=high/3=very high (default)
 
 q_ShaderFX = 1
-Defines the shader quality of FX
-Usage: q_ShaderFX 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of FX
+;Usage: q_ShaderFX 0=low/1=med/2=high/3=very high (default)
 
 q_ShaderGeneral = 1
-Defines the shader quality of General
-Usage: q_ShaderGeneral 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of General
+;Usage: q_ShaderGeneral 0=low/1=med/2=high/3=very high (default)
 
 q_ShaderGlass = 1
-Defines the shader quality of Glass
-Usage: q_ShaderGlass 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of Glass
+;Usage: q_ShaderGlass 0=low/1=med/2=high/3=very high (default)
 
 q_ShaderHDR = 1
-Defines the shader quality of HDR
-Usage: q_ShaderHDR 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of HDR
+;Usage: q_ShaderHDR 0=low/1=med/2=high/3=very high (default)
 
 q_ShaderParticle = 1
-Defines the shader quality of Particle
-Usage: q_ShaderParticle 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of Particle
+;Usage: q_ShaderParticle 0=low/1=med/2=high/3=very high (default)
 
 q_ShaderPostProcess = 1
-Defines the shader quality of PostProcess
-Usage: q_ShaderPostProcess 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of PostProcess
+;Usage: q_ShaderPostProcess 0=low/1=med/2=high/3=very high (default)
 
 q_ShaderShadow = 1
-Defines the shader quality of Shadow
-Usage: q_ShaderShadow 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of Shadow
+;Usage: q_ShaderShadow 0=low/1=med/2=high/3=very high (default)
 
 q_ShaderSky = 1
-Defines the shader quality of Sky
-Usage: q_ShaderSky 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of Sky
+;Usage: q_ShaderSky 0=low/1=med/2=high/3=very high (default)
 
 q_ShaderWater = 1
-Defines the shader quality of Water
-Usage: q_ShaderWater 0=low/1=med/2=high/3=very high (default)
+;Defines the shader quality of Water
+;Usage: q_ShaderWater 0=low/1=med/2=high/3=very high (default)
 
 r_DisplayInfo = 0
-Toggles debugging information in top-right of screen with information customized via cvar 'sys_devteam'.
-Usage: 
- 0: off
- 1: minimal data related to your team + issues
- 2: + extended data related to your team
- 3: + basic data not directly related to your team
- 4: + extended data not directly related to your team
- 5: + further extended data
+;Toggles debugging information in top-right of screen with information customized via cvar 'sys_devteam'.
+;Usage: 
+; 0: off
+; 1: minimal data related to your team + issues
+; 2: + extended data related to your team
+; 3: + basic data not directly related to your team
+; 4: + extended data not directly related to your team
+; 5: + further extended data
 
 r_DisplaySessionInfo = 0
-Toggles session info qr code.
-Usage: 
- 0: off
- 1: on
+;Toggles session info qr code.
+;Usage: 
+; 0: off
+; 1: on
 
 r_enable_full_gpu_sync = 0
-enable full gpu synchronization for debugging purposes on the every buffer I/O operation (debugging only).
-0 - Disabled
-1 - Loop indefinitely while waiting
-2 - Fatal error if waiting more than 'r_full_gpu_sync_timeout' seconds
+;enable full gpu synchronization for debugging purposes on the every buffer I/O operation (debugging only).
+;0 - Disabled
+;1 - Loop indefinitely while waiting
+;2 - Fatal error if waiting more than 'r_full_gpu_sync_timeout' seconds
 
 r_FogShadows = 0
-Enables deferred volumetric fog shadows
-Usage: r_FogShadows [0/1/2]
-  0: off
-  1: standard resolution
-  2: reduced resolution
+;Enables deferred volumetric fog shadows
+;Usage: r_FogShadows [0/1/2]
+;  0: off
+;  1: standard resolution
+;  2: reduced resolution
 
 r_FourierShadowsPoolSize = 512
-Set size of fourier (gascloud) shadow pool
+;Set size of fourier (gascloud) shadow pool
 
 r_full_gpu_sync_timeout = 10
-sets timeout for full gpu synchronization after which program triggers a fatal error (debugging only)
+;sets timeout for full gpu synchronization after which program triggers a fatal error (debugging only)
 
 r_GasCloudUpsample = 2
-Screen res downscale step for gascloud rendering
+;Screen res downscale step for gascloud rendering
 
 r_GetScreenShot = 0
-Capture a single screenshot (variable is set to 0 after capturing)
-1: Take screenshot immediately
-2: Take screenshot 8 frames after resetting temporal effects
+;Capture a single screenshot (variable is set to 0 after capturing)
+;1: Take screenshot immediately
+;2: Take screenshot 8 frames after resetting temporal effects
 
 r_GPUMarkers = 2
-Insert markers into the GPU timeline to track GPU crashes.
-0 - Disabled
-1 - Track pipeline stage (regular).
-2 - Track pipeline stage (verbose).
+;Insert markers into the GPU timeline to track GPU crashes.
+;0 - Disabled
+;1 - Track pipeline stage (regular).
+;2 - Track pipeline stage (verbose).
 
 r_GPUMarkersForceEnableREsMask = 2097152
-Use this to force enable certain render element types
+;Use this to force enable certain render element types
 
 r_MotionBlur = 2
-Enables per object and camera motion blur.
-Usage: r_MotionBlur [0/1/2/3]
-Default is 1 (camera motion blur on).
-1: camera motion blur
-2: camera and object motion blur
-3: debug mode
+;Enables per object and camera motion blur.
+;Usage: r_MotionBlur [0/1/2/3]
+;Default is 1 (camera motion blur on).
+;1: camera motion blur
+;2: camera and object motion blur
+;3: debug mode
 
 r_RenderDocCapture = 0
-To capture one RenderDoc (variable is set to 0 after capturing)
-0=do not take a RenderDoc Capture (default), 1= save a RenderDoc Capture, 2>= save the number of captures
+;To capture one RenderDoc (variable is set to 0 after capturing)
+;0=do not take a RenderDoc Capture (default), 1= save a RenderDoc Capture, 2>= save the number of captures
 
 r_ShadowsPoolSize = 8192
-Set size of shadow pool (e_ShadowsPoolSize*e_ShadowsPoolSize)
+;Set size of shadow pool (e_ShadowsPoolSize*e_ShadowsPoolSize)
 
 r_ssdo = 2
-Screen Space Directional Occlusion
-0 - Disabled
-1 - Obscurance-based (very fast)
-2 - Optimized horizon-based
-3 - Reference horizon-based (very slow)
+;Screen Space Directional Occlusion
+;0 - Disabled
+;1 - Obscurance-based (very fast)
+;2 - Optimized horizon-based
+;3 - Reference horizon-based (very slow)
 
 r_VSync = 1
-Toggles vertical sync.
-Usage: r_VSync [0/1]
-0: Disabled
-1: Enabled
+;Toggles vertical sync.
+;Usage: r_VSync [0/1]
+;0: Disabled
+;1: Enabled
 
 r_VSync_disablePIAdjustment = 1
-Toggles vertical sync time step adjust (if VSync is ON).
-Usage: r_VSync_disablePIAdjustment [0/1]
-0: Disabled
-1: Enabled
+;Toggles vertical sync time step adjust (if VSync is ON).
+;Usage: r_VSync_disablePIAdjustment [0/1]
+;0: Disabled
+;1: Enabled
 
 
 sys_maxFps = 0
-Limits the frame rate to the specified number.
-If sys_maxFps <= 0 the game will run at the highest possible frame rate while not loading, in menu, or paused (default).
+;Limits the frame rate to the specified number.
+;If sys_maxFps <= 0 the game will run at the highest possible frame rate while not loading, in menu, or paused (default).
 
 sys_maxIdleFps = 60
-Limits the frame rate to the specified number while loading, in menu, or paused.
-If sys_maxFps > 0 AND sys_maxIdleFps > 0 then the lowest of the two values will be used.
-If sys_maxIdleFps <= 0 frame rate while loading, in menu, or paused will be controlled by value of sys_maxFps.
+;Limits the frame rate to the specified number while loading, in menu, or paused.
+;If sys_maxFps > 0 AND sys_maxIdleFps > 0 then the lowest of the two values will be used.
+;If sys_maxIdleFps <= 0 frame rate while loading, in menu, or paused will be controlled by value of sys_maxFps.
 
 sys_rad3_capture_name = StarCitizen
-Title of the Capture
+;Title of the Capture
 
 sys_rad3_enable_logging = 0
-Enable/Disable RAD3 Logging
+;Enable/Disable RAD3 Logging
 	0: Logging is disabled
 	1: Network logging. Connect to sys_rad3_server_ip:sys_rad3_server_socket
 	2: File logging. Write to sys_rad3_log_file
 
 sys_rad3_log_file = rad3.tmcap
-Filename to write telemetry to. (should end with .tmpcap)
+;Filename to write telemetry to. (should end with .tmpcap)
 
 sys_rad3_server_ip = localhost
-IP of the RAD3 telemetry server to use. Default is "localhost"
+;IP of the RAD3 telemetry server to use. Default is "localhost"
 
 sys_rad3_server_socket = 4719
-Socket of the RAD3 telemetry server to use. Default is "4719"
+;Socket of the RAD3 telemetry server to use. Default is "4719"
 
 sys_trace_diag = 1
-Enable/Disable cigTrace Dialog
+;Enable/Disable cigTrace Dialog
 
 sys_trace_dump = 1
-Enable/Disable cigTrace Dump support
+;Enable/Disable cigTrace Dump support
 
 sys_trace_log = 1
-Enable/Disable cigTrace Log output
+;Enable/Disable cigTrace Log output
 
 sys_trace_publish = 1
-Enable/Disable cigTrace Event output
+;Enable/Disable cigTrace Event output
 
 ui_disableScreenFade = 0
-Disable screen fade during respawn
+;Disable screen fade during respawn
