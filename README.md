@@ -23,9 +23,9 @@ I was looking for description of parameters for latest LIVE version of Star Citi
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
 
 ## Usage
-Parameter `Con_Restricted = 0` is require to unlock USER.cfg file in game.
+Parameter `Con_Restricted = 0` is require to unlock %USER% file in game.
 
-Semicolon `;` is used to comment out something from USER.cfg eg. description of parameter or unwanted parameter.
+Semicolon `;` is used to comment out something from %USER% eg. description of parameter or unwanted parameter.
 
 %CONSOLE% support Copy [CTRL+C] and Paste [CRTL+V] keyboard shortcut also like it's mention in Introduction all logs are stored in %LOG% file. Parameters can be modified through %USER% file.
 
