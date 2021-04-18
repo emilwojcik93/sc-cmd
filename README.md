@@ -58,6 +58,8 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
 
 Resolution: 3840x1080 30FPS
 
+<a href="https://imgur.com/gallery/W5FZBXL"><img src="https://i.imgur.com/77I4bl5.jpeg"  width="400" /></a>
+
 [Philips 499P9H 32:9 SuperWide curved LCD display](https://www.usa.philips.com/c-p/499P9H_27/brilliance-329-superwide-curved-lcd-display)
 
 <a href="https://imgur.com/gallery/zkA81Vk"><img src="https://i.imgur.com/DRXwldF.jpg"  width="400" /></a>
