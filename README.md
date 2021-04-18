@@ -72,3 +72,5 @@ Network: Central Europe, 500/30 Mbps
 [Dashboard explanation](https://support.robertsspaceindustries.com/hc/en-us/articles/360011767373-Star-Citizen-Telemetry-Dashboard)
 
 <a href="https://imgur.com/gallery/1DGVPpC"><img src="https://i.imgur.com/8whaG2M.png"  width="400" /></a>
+
+[My RSI Account](https://robertsspaceindustries.com/citizens/emilwojcik93)
