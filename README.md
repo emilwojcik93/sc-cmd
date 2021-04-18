@@ -27,6 +27,19 @@ Additional:
 * [CCleaner installation & usage](https://youtu.be/6EyCnqtaNss)
 * [Network Reset](https://www.digitalcitizen.life/how-reset-all-your-windows-10-network-adapters-just-6-clicks/)
 * [Network Optimization](https://youtu.be/xoOLBAmlVhg)
+   * HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters
+      * IRPStackSize = 32
+      * SizReqBuf = 17424
+   * HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters
+      * DefaultTTL = 64
+      * TCP1323Opts = 1
+      * MaxFreeTcbs = 65536
+      * MaxUserPort = 65534
+      * GlobalMaxTcpWindowSize = 65565
+   * HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{key-value-of-your-nic}\DhcpIPAddress = <IP-ADDR>
+      * MTU = 1470
+      * TcpAckFrequency = 1
+      * TcpNoDelay = 1
 * [Disable background apps](https://www.windowscentral.com/how-prevent-apps-running-background-windows-10)
 * [Disable pagefiles](https://tunecomp.net/win10-page-file-disable/)
 
