@@ -56,3 +56,6 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
 [Philips 499P9H 32:9 SuperWide curved LCD display](https://www.usa.philips.com/c-p/499P9H_27/brilliance-329-superwide-curved-lcd-display)
 
 Resolution: 3840x1080 30FPS
+
+Network: Central Europe, 500/30 Mbps
+[![Network Speed](https://www.speedtest.net/result/11281141810)](https://www.speedtest.net/result/11281141810.png)
