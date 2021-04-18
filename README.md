@@ -27,6 +27,8 @@ Additional:
 * [CCleaner installation & usage](https://youtu.be/6EyCnqtaNss)
 * [Network Reset](https://www.digitalcitizen.life/how-reset-all-your-windows-10-network-adapters-just-6-clicks/)
 * [Network Optimization](https://youtu.be/xoOLBAmlVhg)
+* [Disable background apps](https://www.windowscentral.com/how-prevent-apps-running-background-windows-10)
+* [Disable pagefiles](https://tunecomp.net/win10-page-file-disable/)
 
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
 
