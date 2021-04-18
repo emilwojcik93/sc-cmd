@@ -58,6 +58,7 @@ Resolution: 3840x1080 30FPS
 [Philips 499P9H 32:9 SuperWide curved LCD display](https://www.usa.philips.com/c-p/499P9H_27/brilliance-329-superwide-curved-lcd-display)
 
 <a href="https://imgur.com/gallery/zkA81Vk"><img src="https://i.imgur.com/DRXwldF.jpg"  width="400" /></a>
+
 Network: Central Europe, 500/30 Mbps
 
 <a href="https://www.speedtest.net/result/11281141810"><img src="https://www.speedtest.net/result/11281141810.png"  width="400" /></a>
