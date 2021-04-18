@@ -53,6 +53,6 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
 
 [![PC spec](https://www.passmark.com/baselines/V10/images/139586361841.png)](https://www.passmark.com/baselines/V10/display.php?id=139586361841)
 
-[PC Display](https://www.usa.philips.com/c-p/499P9H_27/brilliance-329-superwide-curved-lcd-display)
+[Philips 499P9H 32:9 SuperWide curved LCD display](https://www.usa.philips.com/c-p/499P9H_27/brilliance-329-superwide-curved-lcd-display)
 
 Resolution: 3840x1080 30FPS
