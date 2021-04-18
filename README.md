@@ -57,7 +57,7 @@ Resolution: 3840x1080 30FPS
 
 [Philips 499P9H 32:9 SuperWide curved LCD display](https://www.usa.philips.com/c-p/499P9H_27/brilliance-329-superwide-curved-lcd-display)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/zkA81Vk"  ><a href="//imgur.com/a/zkA81Vk">Ultrawide Desktop Setup mk1</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://imgur.com/gallery/zkA81Vk"><img src="https://i.imgur.com/DRXwldF.jpg"  width="400" /></a>
 Network: Central Europe, 500/30 Mbps
 
 <a href="https://www.speedtest.net/result/11281141810"><img src="https://raw.githubusercontent.com/emilwojcik93/sc-cmd/main/11281141810.png"  width="400" /></a>
