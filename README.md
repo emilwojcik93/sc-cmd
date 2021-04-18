@@ -51,4 +51,4 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
    
 ## [My PC Config](https://www.passmark.com/baselines/V10/display.php?id=139586361841)
 
-![PC spec](https://www.passmark.com/baselines/V10/images/139586361841.png)
+[![PC spec](https://www.passmark.com/baselines/V10/images/139586361841.png)](https://www.passmark.com/baselines/V10/display.php?id=139586361841)
