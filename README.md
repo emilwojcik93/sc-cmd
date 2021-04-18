@@ -28,6 +28,10 @@ There are few general steps which should you check on your device which are pres
 
 [Additional CCleaner installation & usage](https://youtu.be/6EyCnqtaNss)
 
+[Network Reset](https://www.digitalcitizen.life/how-reset-all-your-windows-10-network-adapters-just-6-clicks/)
+
+[Network Optimization](https://youtu.be/xoOLBAmlVhg)
+
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
 
 ## Usage
