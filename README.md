@@ -1,5 +1,5 @@
 # sc-cmd
-Collection of parameters available for latest LIVE (ver. 3.12.0) of Star Citizen.
+Collection of parameters available for latest LIVE (ver. 3.12.1) and latest PTU (ver. 3.13.0) of Star Citizen.
 
 [Example USER.cfg](https://github.com/emilwojcik93/sc-cmd/blob/main/LOWEST_USER.cfg)
 
