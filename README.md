@@ -5,9 +5,6 @@ Collection of parameters available for latest LIVE (ver. 3.12.1) and latest PTU 
 
 [Raw parameters list and description](https://github.com/emilwojcik93/sc-cmd/blob/main/parameters.txt)
 
-# [Wiki](https://github.com/emilwojcik93/sc-cmd/wiki)
-Full list of parameters and their description
-
 ## Shortcuts
 %CONSOLE% = in game console open with `~` key
 
