@@ -61,4 +61,4 @@ Resolution: 3840x1080 30FPS
 
 Network: Central Europe, 500/30 Mbps
 
-<a href="https://www.speedtest.net/result/11281141810"><img src="https://www.speedtest.net/result/11281141810.png"  width="400" /></a>
+<a href="https://www.speedtest.net/result/11281207985"><img src="https://www.speedtest.net/result/11281207985.png" width="400" /></a>
