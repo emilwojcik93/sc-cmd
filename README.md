@@ -58,4 +58,4 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
 Resolution: 3840x1080 30FPS
 
 Network: Central Europe, 500/30 Mbps
-[![Network Speed](https://www.speedtest.net/result/11281141810.png =250x)](https://www.speedtest.net/result/11281141810)
+[![Network Speed](https://www.speedtest.net/result/11281141810.png)](https://www.speedtest.net/result/11281141810){ width=50% }
