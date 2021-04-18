@@ -67,3 +67,9 @@ Resolution: 3840x1080 30FPS
 Network: Central Europe, 500/30 Mbps
 
 <a href="https://www.speedtest.net/result/11281207985"><img src="https://www.speedtest.net/result/11281207985.png" width="400" /></a>
+
+[Star Citizen Telemetry Dashboard](https://robertsspaceindustries.com/telemetry)
+
+[Dashboard explanation](https://support.robertsspaceindustries.com/hc/en-us/articles/360011767373-Star-Citizen-Telemetry-Dashboard)
+
+<a href="https://imgur.com/a/1DGVPpC"><img src="https://i.imgur.com/8whaG2M.png"  width="400" /></a>
