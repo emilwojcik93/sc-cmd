@@ -48,3 +48,5 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
    - to get description of parameter in %CONSOLE% write at the end of target command add help sign ` ?` eg. `quit ?`
 
    ![Help sign](https://github.com/emilwojcik93/sc-cmd/blob/main/help_example.gif)
+   
+## My PC Config
