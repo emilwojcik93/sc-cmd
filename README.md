@@ -24,7 +24,7 @@ First of all there is [Official RSI Technical Support Page](https://support.robe
 * [Game Information and Installs](https://support.robertsspaceindustries.com/hc/en-us/sections/360000132827-Game-Information-and-Installs)
 * [Graphic Updates and Issues](https://support.robertsspaceindustries.com/hc/en-us/sections/360000502253-Graphic-Updates-and-Issues)
 
-There are few general steps which should you check on your device which are present in this [video tutorial](https://youtu.be/xD9irwzIfso)
+There are few general steps which should you check on your device which are present in this [video tutorial](https://youtu.be/xD9irwzIfso) until 7:52
 
 [Additional CCleaner installation & usage](https://youtu.be/6EyCnqtaNss)
 
