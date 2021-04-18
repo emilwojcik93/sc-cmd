@@ -25,12 +25,9 @@ First of all there is [Official RSI Technical Support Page](https://support.robe
 * [Graphic Updates and Issues](https://support.robertsspaceindustries.com/hc/en-us/sections/360000502253-Graphic-Updates-and-Issues)
 
 There are few general steps which should you check on your device which are present in this [video tutorial](https://youtu.be/xD9irwzIfso) until 7:52
-
-[Additional CCleaner installation & usage](https://youtu.be/6EyCnqtaNss)
-
-[Network Reset](https://www.digitalcitizen.life/how-reset-all-your-windows-10-network-adapters-just-6-clicks/)
-
-[Network Optimization](https://youtu.be/xoOLBAmlVhg)
+* [Additional CCleaner installation & usage](https://youtu.be/6EyCnqtaNss)
+* [Network Reset](https://www.digitalcitizen.life/how-reset-all-your-windows-10-network-adapters-just-6-clicks/)
+* [Network Optimization](https://youtu.be/xoOLBAmlVhg)
 
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
 
