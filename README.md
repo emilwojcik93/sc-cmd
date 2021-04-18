@@ -28,7 +28,6 @@ There are few general steps which should you check on your device which are pres
 
 [Additional CCleaner installation & usage](https://youtu.be/6EyCnqtaNss)
 
-
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
 
 ## Usage
