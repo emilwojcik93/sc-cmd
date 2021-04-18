@@ -35,7 +35,7 @@ Additional:
       * TCP1323Opts = 1
       * MaxFreeTcbs = 65536
       * MaxUserPort = 65534
-      * GlobalMaxTcpWindowSize = 65565
+      * GlobalMaxTcpWindowSize = 65535
    * HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{key-value-of-your-nic}\DhcpIPAddress = <IP-ADDR>
       * MTU = 1470
       * TcpAckFrequency = 1
