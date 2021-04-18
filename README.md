@@ -18,6 +18,10 @@ Full list of parameters and their description
 %USER% = `"C:\Program Files\Roberts Space Industries\StarCitizen\LIVE\USER.cfg"`
 
 ## Introduction
+First there are few general steps which should you apply on your device which are present in this [video tutorial](https://youtu.be/xD9irwzIfso)
+
+[Additional CCleaner installation & usage](https://youtu.be/6EyCnqtaNss)
+
 I was looking for description of parameters for latest LIVE version of Star Citizen but I don’t find any, so in this repo I would like to collect all available (working) parameters for this game. All informations will be placed in wiki of this repo. Those parameters and their descriptions was capture through %CONSOLE% and %LOG% file.
 
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
