@@ -64,7 +64,7 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
 
    ![Help sign](https://github.com/emilwojcik93/sc-cmd/blob/main/help_example.gif)
    
-## [My PC Config](https://www.passmark.com/baselines/V10/display.php?id=139586361841)
+## My PC Config
 
 [![PC spec](https://www.passmark.com/baselines/V10/images/139690006860.png)](https://www.passmark.com/baselines/V10/display.php?id=139690006860)
 
