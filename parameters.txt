@@ -22,6 +22,12 @@ cig_profile_auto_logging_slow_frame_tolerance = 0.25
 cig_profile_auto_logging_slow_frame_window = 2
 ;Number of seconds frame rate is observed before triggering an auto capture.
 
+cig_profile_log_path = StressTest/manual_profile
+;Path to write the combined profiling results to. (should not contain the file extension)
+
+cig_profile_sampling_rate = 1003
+;Sets the Sampling Rate
+
 e_runtimeCubemapEnableDebugLogging = 0
 ;Capture various debug information about runtime cubemap commands, and output if specific assert triggers.
 
@@ -39,6 +45,9 @@ i_DumpDeviceInformation
 
 mission_debug_reputation = 0
 ;Client debug display for the local player's virtue and reliability values. Set to 1 to display the information
+
+pl_carryable.logClench = 0
+;Enables verbose logging for clenching and unclenching of items.
 
 pl_showStatus
 ;Log current player status
@@ -187,6 +196,15 @@ r_VSync_disablePIAdjustment = 1
 ;0: Disabled
 ;1: Enabled
 
+sys_cigprofile_json_enable_logging = 0
+;(test) Enable/Disable JSON Logging
+;0: Logging is disabled
+;1: JSON file logging enabled.
+
+sys_cigprofile_json_log_file = profile_log.json
+;Filename to write telemetry to. (should end with .json)
+sys_trace_service_max_bulk = 300
+;Max trace messages per gRPC message
 
 sys_maxFps = 0
 ;Limits the frame rate to the specified number.
@@ -226,6 +244,30 @@ sys_trace_log = 1
 
 sys_trace_publish = 1
 ;Enable/Disable cigTrace Event output
+
+sys_trace_service_max_bulk = 300
+;Max trace messages per gRPC message
+
+sys_trace_service_max_queue = 2000
+;Max queue size for message buffer
+
+sys_trace_spam_delay = 2000
+;cigTrace Spam time
+;Identical Massages send within the spam time are filtered.
+;Time in MS
+
+sys_trace_spam_eps = 3
+;cigTrace Spam time
+;Identical Massages send within the spam time are filtered.
+;Time in MS
+
+sys_trace_spam_filter = 1
+;Enable/Disable cigTrace Spam Filter
+
+sys_trace_spam_history = 5
+;cigTrace Spam time
+;Identical Massages send within the spam time are filtered.
+;Time in MS
 
 ui_disableScreenFade = 0
 ;Disable screen fade during respawn
