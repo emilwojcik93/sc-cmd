@@ -1,0 +1,67 @@
+cig_profile_auto_logging_enabled = 0
+cig_profile_auto_logging_enabled_during_level_load = 0
+cig_profile_auto_logging_enabled_frame_delay_after_level_load = 100
+cig_profile_auto_logging_max_captures = 5
+cig_profile_auto_logging_slow_frame_threshold = 10
+cig_profile_auto_logging_slow_frame_tolerance = 0.25
+cig_profile_auto_logging_slow_frame_window = 2
+cig_profile_log_path = StressTest/manual_profile
+cig_profile_sampling_rate = 1003
+e_runtimeCubemapEnableDebugLogging = 0
+e_ZoneSystemVerifyBounds = 0
+g_playerGroupManager.on_foot_partymarker_cull_distance = 1000
+g_playerGroupManager.on_vehicle_partymarker_cull_distance = 50000
+i_DumpDeviceInformation
+mission_debug_reputation = 0
+pl_carryable.logClench = 0
+pl_showStatus
+pl_staging.debug = 0
+pp_RebindKeys
+pp_ResortDevices
+quit
+q_ShaderDecal = 1
+q_ShaderFX = 1
+q_ShaderGeneral = 1
+q_ShaderGlass = 1
+q_ShaderHDR = 1
+q_ShaderParticle = 1
+q_ShaderPostProcess = 1
+q_ShaderShadow = 1
+q_ShaderSky = 1
+q_ShaderWater = 1
+r_DisplayInfo = 1
+r_DisplaySessionInfo = 0
+r_enable_full_gpu_sync = 0
+r_FogShadows = 0
+r_FourierShadowsPoolSize = 512
+r_full_gpu_sync_timeout = 10
+r_GasCloudUpsample = 0
+r_GetScreenShot = 0
+r_GPUMarkers = 2
+r_GPUMarkersForceEnableREsMask = 2097152
+r_MotionBlur = 0
+r_RenderDocCapture = 0
+r_RenderThreadDebugEventsEnable = 1
+r_ShadowsPoolSize = 8192
+r_ssdo = 1
+r_VSync = 0
+r_VSync_disablePIAdjustment = 1
+sys_cigprofile_json_enable_logging = 0
+sys_cigprofile_json_log_file = profile_log.json
+sys_maxFps = 30
+sys_maxIdleFps = 15
+sys_rad3_capture_name = StarCitizen
+sys_rad3_enable_logging = 0
+sys_rad3_log_file = rad3.tmcap
+sys_rad3_server_ip = localhost
+sys_rad3_server_socket = 4719
+sys_trace_diag = 1
+sys_trace_dump = 1
+sys_trace_log = 1
+sys_trace_publish = 1
+sys_trace_service_max_bulk = 300
+sys_trace_service_max_queue = 2000
+sys_trace_spam_delay = 2000
+sys_trace_spam_eps = 3
+sys_trace_spam_filter = 1
+sys_trace_spam_history = 5
