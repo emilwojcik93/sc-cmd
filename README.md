@@ -23,6 +23,8 @@ First of all there is [Official RSI Technical Support Page](https://support.robe
 
 There are few general steps which should you check on your device which are present in this [video tutorial](https://youtu.be/xD9irwzIfso) until 7:52
 
+[Intelligent standby list cleaner ISLC config file](https://github.com/emilwojcik93/sc-cmd/blob/main/Intelligent%20standby%20list%20cleaner%20ISLC.exe.Config)
+
 Additional:
 * [CCleaner installation & usage](https://youtu.be/6EyCnqtaNss)
 * [Network Reset](https://www.digitalcitizen.life/how-reset-all-your-windows-10-network-adapters-just-6-clicks/)
