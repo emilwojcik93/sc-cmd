@@ -3,7 +3,7 @@ Collection of parameters available for latest LIVE/PTU (ver. 3.13.0) of Star Cit
 
 [Example USER.cfg](https://github.com/emilwojcik93/sc-cmd/blob/main/LOWEST_USER.cfg)
 
-[Raw parameters list and description](https://github.com/emilwojcik93/sc-cmd/blob/main/parameters.txt)
+[Parameters list with description](https://github.com/emilwojcik93/sc-cmd/blob/main/parameters.txt)
 
 ## Shortcuts
 %CONSOLE% = in game console open with `~` key
