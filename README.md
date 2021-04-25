@@ -43,8 +43,8 @@ Additional:
       * TcpAckFrequency = 1
       * TcpNoDelay = 1
 * [Disable background apps](https://www.windowscentral.com/how-prevent-apps-running-background-windows-10)
-* [Disable pagefiles](https://tunecomp.net/win10-page-file-disable/)
 * [Disable Xbox Game Bar and background recording](https://www.windowscentral.com/how-disable-and-remove-game-bar-windows-10-creators-update)
+* [Disable pagefiles](https://tunecomp.net/win10-page-file-disable/)
 
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
 
