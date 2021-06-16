@@ -45,6 +45,8 @@ Additional:
 * [Disable background apps](https://www.windowscentral.com/how-prevent-apps-running-background-windows-10)
 * [Disable Xbox Game Bar and background recording](https://www.windowscentral.com/how-disable-and-remove-game-bar-windows-10-creators-update)
 * [Disable pagefiles](https://tunecomp.net/win10-page-file-disable/)
+* [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
+* [DirectX End-User Runtime Web Installer](https://www.microsoft.com/en-us/download/details.aspx?id=35)
 
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
 
