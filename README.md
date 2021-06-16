@@ -47,6 +47,8 @@ Additional:
 * [Disable pagefiles](https://tunecomp.net/win10-page-file-disable/)
 * [Visual C++ Redistributable Runtimes All-in-One](https://www.techpowerup.com/download/visual-c-redistributable-runtime-package-all-in-one/)
 * [DirectX End-User Runtime Web Installer](https://www.microsoft.com/en-us/download/details.aspx?id=35)
+* [Microsoft .NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)
+* [Microsoft .NET Framework 4.5.2](https://www.microsoft.com/en-us/download/details.aspx?id=42642)
 
 Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
 
