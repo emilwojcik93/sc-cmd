@@ -72,13 +72,13 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
    ![Help sign](https://github.com/emilwojcik93/sc-cmd/blob/main/help_example.gif)
    
 ## My PC Config
-Windows 11 Pro 21H2 OS Build 22000.51 (currently used)
-
-[![Win10](https://www.passmark.com/baselines/V10/images/142372614763.png)](https://www.passmark.com/baselines/V10/display.php?id=142372614763)
-
-Windows 10 Pro 20H2 OS Build 19042
+Windows 10 Pro 20H2 OS Build 19042 (currently used)
 
 [![Win10](https://www.passmark.com/baselines/V10/images/139690006860.png)](https://www.passmark.com/baselines/V10/display.php?id=139690006860)
+
+Windows 11 Pro 21H2 OS Build 22000.51
+
+[![Win11](https://www.passmark.com/baselines/V10/images/142372614763.png)](https://www.passmark.com/baselines/V10/display.php?id=142372614763)
 
 Resolution: 3840x1080 30FPS
 
@@ -88,9 +88,9 @@ Resolution: 3840x1080 30FPS
 
 <a href="https://imgur.com/gallery/zkA81Vk"><img src="https://i.imgur.com/DRXwldF.jpg"  width="400" /></a>
 
-Network: Central Europe, 500/30 Mbps
+Network: Central Europe, 1000/50 Mbps
 
-<a href="https://www.speedtest.net/result/11281207985"><img src="https://www.speedtest.net/result/11281207985.png" width="400" /></a>
+<a href="https://www.speedtest.net/result/11749888281"><img src="https://www.speedtest.net/result/11749888281.png" width="400" /></a>
 
 [Star Citizen Telemetry Dashboard](https://robertsspaceindustries.com/telemetry)
 
