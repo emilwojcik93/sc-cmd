@@ -9,12 +9,14 @@ cig_profile_log_path = StressTest/manual_profile
 cig_profile_sampling_rate = 1003
 e_runtimeCubemapEnableDebugLogging = 0
 e_ZoneSystemVerifyBounds = 0
+grpc_push_stresstest_subscriptions = 0
 g_playerGroupManager.on_foot_partymarker_cull_distance = 1000
 g_playerGroupManager.on_vehicle_partymarker_cull_distance = 50000
+g_shield.ui_legacy_mfd_swap_recharge_and_delay = 0
+g_shield.ui_show_prototype = 0
 i_DumpDeviceInformation
 mission_debug_reputation = 0
 pl_carryable.logClench = 0
-pl_showStatus
 pl_staging.debug = 0
 pp_RebindKeys
 pp_ResortDevices
