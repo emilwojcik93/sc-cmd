@@ -50,7 +50,7 @@ Additional:
 * [Microsoft .NET Framework 3.5](https://www.microsoft.com/en-us/download/details.aspx?id=21)
 * [Microsoft .NET Framework 4.5.2](https://www.microsoft.com/en-us/download/details.aspx?id=42642)
 
-Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/wiki/Parameters-list) has assigned default value.
+Every parameters on the [list](https://github.com/emilwojcik93/sc-cmd/blob/main/parameters.txt) has assigned default value.
 
 ## Usage
 Parameter `Con_Restricted = 0` is require to unlock %USER% file in game.
