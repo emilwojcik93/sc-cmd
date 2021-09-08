@@ -34,11 +34,21 @@ e_runtimeCubemapEnableDebugLogging = 0
 e_ZoneSystemVerifyBounds = 0
 ;Set to 1 to enable debug code to catch broken logic in Parition BBox Updates
 
+grpc_push_stresstest_subscriptions = 0
+;CVar to stresstest push subscriptions
+;Usage: grpc_push_stresstest_subscriptions <Number of subscriptions>
+
 g_playerGroupManager.on_foot_partymarker_cull_distance = 1000
 ;Max display distance for party marker when on foot.
 
 g_playerGroupManager.on_vehicle_partymarker_cull_distance = 50000
 ;Max display distance for party marker when piloting a vehicle.
+
+g_shield.ui_legacy_mfd_swap_recharge_and_delay = 0
+;Uses the recharge bindings for delay times
+
+g_shield.ui_show_prototype = 0
+;Shows the shield UI prototype (bubble, front back and quad)
 
 i_DumpDeviceInformation
 ;Print out information about currently connected input devices
