@@ -75,6 +75,7 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
 Windows 11 Pro 21H2 OS Build 22000.469 (currently used) (after general upgrade)
 
 [![Win11](https://www.passmark.com/baselines/V10/images/150550657828.png)](https://www.passmark.com/baselines/V10/display.php?id=15055065782)
+
 Windows 10 Pro 21H1 OS Build 19043 after [debloation](https://github.com/Sycnex/Windows10Debloater)
 
 [![Win10](https://www.passmark.com/baselines/V10/images/142933353107.png)](https://www.passmark.com/baselines/V10/display.php?id=142933353107)
