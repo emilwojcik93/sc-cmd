@@ -72,7 +72,15 @@ Semicolon `;` is used to comment out something from %USER% file eg. description 
    ![Help sign](https://github.com/emilwojcik93/sc-cmd/blob/main/help_example.gif)
    
 ## My PC Config
-Windows 11 Pro 21H2 OS Build 22000.469 (currently used) (after general upgrade)
+Windows 11 Pro 22H2 OS Build 22621.1778 res: 5120x1440 (currently used) (after general upgrade)
+
+[![Win11](https://www.passmark.com/baselines/V10/images/182661218141.png)](https://www.passmark.com/baselines/V11/display.php?id=182661218141)
+
+Windows 11 Pro 22H2 OS Build 22621.1778 res: 1920x1080 (after general upgrade)
+
+[![Win11](https://www.passmark.com/baselines/V10/images/182662307962.png)](https://www.passmark.com/baselines/V11/display.php?id=182662307962)
+
+Windows 11 Pro 21H2 OS Build 22000.469
 
 [![Win11](https://www.passmark.com/baselines/V10/images/150550657828.png)](https://www.passmark.com/baselines/V10/display.php?id=150550657828)
 
